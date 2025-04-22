@@ -1,0 +1,21 @@
+# macOS
+.DS_Store
+
+# System Files
+Thumbs.db
+ehthumbs.db
+Icon?
+Desktop.ini
+
+# Logs
+*.log
+
+# Jupyter / VSCode / Python (optional)
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.vscode/
+
+# Tableau auto-backups (if any)
+*.bak
+
