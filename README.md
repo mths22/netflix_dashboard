@@ -4,6 +4,13 @@ This dashboard helps you explore Netflix data, like where shows are available, w
 
 ---
 
+## 🔗 View the Interactive Dashboard Online
+
+Explore the live version of this dashboard directly in your browser (no downloads needed):  
+👉 [**Click to open on Tableau Public**](https://public.tableau.com/views/netflix_dashboard_extract/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+---
+
 ## 📸 Dashboard Overview
 
 Here’s what the dashboard looks like and what you’ll find when you open it:
@@ -69,7 +76,6 @@ Area chart showing the number of titles released each year.
 
 ## Requirements to View Interactive Version
 
-If you're using the interactive dashboard:
-- You’ll need **Tableau Public** or **Tableau Reader** (both are free).
-- Or access the dashboard via a shared Tableau link (if provided).
+You don’t need to install anything — just [click here to view it online](https://public.tableau.com/views/netflix_dashboard_extract/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
 
+---
